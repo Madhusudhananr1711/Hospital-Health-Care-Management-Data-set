@@ -52,7 +52,11 @@ The main dataset (`Hospital_Health_Care_Management_Data_Set.xlsx`) consists of t
 This dataset can be used for:  
 - **Healthcare resource management**: Analyzing patient demographics, feedback, and department utilization.  
 - **Operational research**: Studying patient flows, bed utilization, and length of stay.  
-- **Predictive analytics**: Predicting healthcare costs and optimizing resource allocation.  
+- **Predictive analytics**: Predicting healthcare costs and optimizing resource allocation.
 
-## License  
+# Diagram
+<img width="1710" height="805" alt="Screenshot 2026-02-03 183921" src="https://github.com/user-attachments/assets/b5601355-0cbd-40fe-a0bf-7874ac3cc11f" />
+
+
+# License  
 Feel free to use this dataset for non-commercial purposes. For commercial use, please contact the repository owner.  
